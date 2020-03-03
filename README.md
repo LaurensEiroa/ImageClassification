@@ -1,4 +1,5 @@
 # ImageClassification
-In this repository we develope an image classification CNN using Keras.
 
-For training, validating and testing the deep-learning algorithm we use the mnist dataset form Keras datasets.
+An image classification CNN using Keras is presented in this repository.
+
+The mnist Keras dataset has been used for training, validating and testing the deep-learning algorithm.
